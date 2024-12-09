@@ -1,0 +1,7 @@
+public class Hello{
+    String name="sarvan singh k";
+   public static void main(String[] arg){
+       System.out.println("hell0"+name);
+   } 
+
+}
